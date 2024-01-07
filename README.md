@@ -5,4 +5,6 @@ Contains the "Minecraftia" font by Andrew Tyler
 
 Contains "LaunchWrapper" and "RetroDebugInjector" by MCPHackers.
 
-Contains LWJGL.
+Contains LWJGL v2.8.3
+
+note: ensure your minecraft game jar is called "mc.jar" (i forgot to include that in the release's readme)
