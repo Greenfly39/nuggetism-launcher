@@ -14,5 +14,6 @@ Contains LWJGL v2.8.3.
 
 Earliest supported is pre-Classic rd-132211, and the newest supported is Release 1.5.2. (at the moment)
 
+At least Java 6 Update 0 is required.
 
 note: ensure your minecraft game jar is called "mc.jar" (i forgot to include that in the release's readme)
