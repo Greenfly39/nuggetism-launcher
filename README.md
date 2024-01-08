@@ -10,7 +10,7 @@ Contains the "Minecraftia" font by Andrew Tyler.
 
 Contains "LaunchWrapper" and "RetroDebugInjector" by MCPHackers.
 
-Contains LWJGL v2.8.3
+Contains LWJGL v2.8.3.
 
 Earliest supported is pre-Classic rd-132211, and the newest supported is Release 1.5.2. (at the moment)
 
