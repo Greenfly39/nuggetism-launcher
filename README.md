@@ -1,6 +1,6 @@
 # Nuggetism Launcher
 
-<center># KERNELEX 4.5.2 IS REQUIRED!! </center>
+# <center>KERNELEX 4.5.2 IS REQUIRED!! </center>
 
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
