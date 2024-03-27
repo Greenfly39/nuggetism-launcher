@@ -1,6 +1,6 @@
 # nuggetism-launcher
 
-<font size="+5">KERNELEX 4.5.2 IS REQUIRED!!</font>
+<span style="font-size:5.0em;">KERNELEX 4.5.2 IS REQUIRED!</span>
 
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
